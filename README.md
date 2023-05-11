@@ -40,7 +40,7 @@ Some of the configurations used to accomplish this include:
 <br/>
 <b>VM Creation</b>
 
-![vm-1](https://i.imgur.com/xvNnIkY.jpg)
+![vm-1](https://i.imgur.com/mY5K0dR.jpg)
 
 
 ## Attacker Map - Exposed Network
