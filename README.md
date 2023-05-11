@@ -77,7 +77,7 @@ The figures below highlight the number of attacks logged against the network in 
 ![stats-1](https://i.imgur.com/j6AZHt4.jpg)
 
 ## Part 2: Network Design Post Security Controls
-![Network Secured](https://i.imgur.com/4I8zWWp.jpg)
+![Network Secured](https://i.imgur.com/5FPEDlL.jpg)
 
 In this phase, security controls have been applied to eliminate known vulnerabilities and limited potential attacks. 
 The network is monitored for a 24-hour period to analyze the impact of the controls applied. Some of the mitigation efforts in this phase include:
