@@ -2,7 +2,7 @@
 ![HoneyNet-2](https://i.imgur.com/4ItmMCq.jpg)
 ## Summary
 
-In this project, Microsoft Azure is used to construct a honeynet that produces authentic cyber-attacks from random hackers throughout the globe.  
+In this project, Microsoft Azure is used to construct a honeynet that produces authentic cyber-attacks from random hackers around the globe.  
 ## Objective
 The main objective of this project is to build skills and develop knowledge in a SOC (Security Operations Center) environment on how to respond and mitigate network attacks. The honeynet is deployed with vulnerabilities to attract attackers and allow analysis of their methods. Thereafter, incident response procedures are executed to harden the environment using custom security controls and NIST standards. 
 
@@ -36,7 +36,7 @@ In this phase, the network is void of proper security and vulnerable to various 
 Some of the configurations used to accomplish this include: 
 
 -	Created (3) VMs to allow ingress/egress traffic.
--	Disable the firewalls rules on each machine.
+-	Disabled the firewalls rules on each machine.
 - The network is left in this state for 3-4 day period. 
 <br/>
 <b>VM Creation</b>
