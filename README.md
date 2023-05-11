@@ -20,7 +20,7 @@ The main objective of this project is to build skills and develop knowledge in a
   - Resource Groups
   
 - Additional Items
-  - Analytics Rules (Custom Incidents Triggers) 
+  - Analytics Rules (Custom Incident Triggers) 
   - Built a Watchlist (Monitor Network Traffic)
   - Created Workbooks (Custom Queries via KQL) 
 
