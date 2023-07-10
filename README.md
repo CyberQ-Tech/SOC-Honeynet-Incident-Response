@@ -1,4 +1,4 @@
-# Designing a Honeynet in Azure with Incident Response
+# Azure - Designing a Honeynet with Incident Response
 ![HoneyNet-2](https://i.imgur.com/4ItmMCq.jpg)
 ## Summary
 
